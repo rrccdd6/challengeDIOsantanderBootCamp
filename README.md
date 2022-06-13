@@ -1,2 +1,2 @@
-# challengeDIOsantanderBootCamp
-Criação da página de login do instagram com o uso do CSS focado em flexbox. 
+# InitialPageInstagram-DIO
+Página inicial do Instagram desenvolvida à partir do Santander BootCamp da Digital Innovation One.
